@@ -355,6 +355,7 @@ class TouchFlowOSD {
         }
 
         this.osd.remove_all_transitions();
+        Main.layoutManager.removeChrome(this.osd);
         this.osd.destroy();
     }
 }
