@@ -1,0 +1,9 @@
+{
+    "uuid": "touchflow@druva4444.github.io",
+    "name": "TouchFlow",
+    "description": "A customizable animated on-screen display for brightness and volume controls, featuring smooth transitions, dynamic icons and progress indicators.",
+    "shell-version": [
+        "42"
+    ],
+    "url": "https://github.com/Druva4444/TouchFlow"
+}
